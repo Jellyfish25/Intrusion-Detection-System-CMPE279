@@ -1,7 +1,7 @@
 # Intrusion Detection System (CMPE279)
 ## Background Information
-Intrusion detection system project for the Software Security Technologies (CMPE-279) Masters course offered at SJSU.<br>
-This project serves as an introduction to the importance of datasets for IDS systems and the performance of different training models.<br>
+Intrusion detection system project for the Software Security Technologies (CMPE-279) Masters course offered at SJSU.
+This project serves as an introduction to the importance of datasets for IDS systems and the performance of different training models.
 The goal for this project is to train a model to accurately detect malicious packets using selected network features. 
 
 ## Tools Used
